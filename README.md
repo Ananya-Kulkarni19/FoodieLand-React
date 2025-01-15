@@ -59,3 +59,7 @@ yarn start
 - *styles*: Houses all CSS files for styling the website.
 
 ---
+
+### Link to the deployed site
+
+https://foodie-land-8r80a7t8r-ananya-s-projects-ebaa904d.vercel.app/
